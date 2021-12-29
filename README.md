@@ -1,4 +1,4 @@
-# capital_budgeting_decision (beta)
+# Capital Budgeting Decision Model (beta)
 Build the EXCEL model first then code it in PYTHON. 
 Includes: 
 Future Value (FV), 
