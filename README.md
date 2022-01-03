@@ -8,7 +8,7 @@
   - Internal Rate of Return (IRR)
   - Profitability Index (PI), 
   - Modifired Internal Rate of Return (MIRR), 
-  - Crossover Rate and 
+  - Crossover Rate, and 
   - NPV, 
   - etc.
 - Download the EXCEL Model: https://github.com/tomZpeng/Capital-Budgeting-Decision-Model/raw/main/EXCEL%20Capital%20Budegeting%20Decision%20Models.xlsx
